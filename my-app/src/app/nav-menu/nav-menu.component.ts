@@ -9,16 +9,16 @@ export class NavMenuComponent implements OnInit {
   myList = 
   [
     {
-      txt: 'Home'
+      txt: 'Adi'
     },
     {
-      txt: 'Store'
+      txt: 'Tayri'
     },
     {
-      txt: 'About Us'
+      txt: 'Exercise'
     },
     {
-      txt: 'Contact Us'
+      txt: '2'
     }
   ];
 
